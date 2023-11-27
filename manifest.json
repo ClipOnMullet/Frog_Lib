@@ -2,7 +2,7 @@
     "name": "Frog_Lib",
     "version_number": "1.0.0",
     "website_url": "https://github.com/ClipOnMullet/Frog_Lib.git",
-    "description": "Collection of a ton of good mods since importing profiles is kinda painful",
+    "description": "Collection of a ton of a few good mods since importing profiles is kinda painful",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 		"2018-LC_API-1.3.0",
