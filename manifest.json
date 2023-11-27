@@ -1,6 +1,6 @@
 {
     "name": "Frog_Lib",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/ClipOnMullet/Frog_Lib.git",
     "description": "Collection of a ton of a few good mods since importing profiles is kinda painful",
     "dependencies": [
