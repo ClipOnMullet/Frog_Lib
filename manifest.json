@@ -1,6 +1,6 @@
 {
     "name": "Frog_Lib",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/ClipOnMullet/Frog_Lib.git",
     "description": "Collection of a ton of a few good mods since importing profiles is kinda painful",
     "dependencies": [
@@ -18,7 +18,6 @@
 		"tinyhoot-ShipLoot-1.0.0",
 		"ATK-ShipClock-0.9.0",
 		"FlipMods-SkipToMultiplayerMenu-1.0.0",
-		"Tyzeron-Minimap-1.0.3",
 		"Evaisa-LethalLib-0.2.1",
 		"Evaisa-HookGenPatcher-0.0.5",
 		"malco-Lategame_Upgrades-1.1.2"
